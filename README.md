@@ -11,8 +11,8 @@ I am VC 💸 at [Runa Capital](https://runacap.com) focusing on open-source, dev
 #### 👨‍💻 About me
 
  - Trying to make venture capital more data-driven
- - Former developer
- - I love to code in Python 🐍 and JavaScript
+ - Developing data products
+ - Coding in Python 🐍 and JavaScript (TypeScript)
  - Working on a maker's schedule 📆
 
 <!--
