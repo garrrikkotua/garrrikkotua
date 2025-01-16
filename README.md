@@ -1,6 +1,6 @@
 ### Hi, I am Igor Kotua 👋
 
-#### Open-source enthusiast, occasional developer, slow keyboard presser and a guy trying to learn more about Growth
+#### Open-source enthusiast and indie entrepreneur 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/garrrikkotua)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igorkotua/)
@@ -8,9 +8,9 @@
 
 #### 👨‍💻 About me
 
- - Searching for a hacky ways to grow Crowd.dev
+ - Built AI video generator Cliplama.com from scratch to $3.5k MRR and sucessfully sold
+ - Engineer at The Linux Foundation 
  - Coding in Python 🐍 and JavaScript (TypeScript)
- - Working on a maker's schedule 📆
 
 <!--
 <p>
@@ -20,6 +20,5 @@
 -->
 
 #### 🔖 Resources 
-- Subscribe to my blog about open-souce and venture capital 👉 [igorkotua.com](https://igorkotua.com)
 - Follow me on Twitter [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/garrrikkotua.svg?style=social&label=Follow%20%40garrrikkotua)](https://twitter.com/garrrikkotua)
 - Give a star ⭐ to *Awesome List of Open-Source Alternatives to Well-Known SaaS products* [![GitHub stars](https://img.shields.io/github/stars/RunaCapital/awesome-oss-alternatives.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/RunaCapital/awesome-oss-alternatives/stargazers/)
