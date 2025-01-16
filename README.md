@@ -9,7 +9,8 @@
 #### 👨‍💻 About me
 
  - Built AI video generator Cliplama.com from scratch to $3.5k MRR and sucessfully sold it
- - Engineer at The Linux Foundation 
+ - Engineer at The Linux Foundation
+ - Previously worked as VC analust at Runa Capital
  - Coding in Python 🐍 and JavaScript (TypeScript)
 
 <!--
